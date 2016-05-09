@@ -1,4 +1,4 @@
-React HN
+React HN (Clone & Modified from: https://github.com/mking/react-hn)
 ===
 This is a visual React tutorial. This tutorial should give you a feel for "growing" a React UI from small, modular parts. By the end of this tutorial, you will have built the [HN front page in React](https://mking.github.io/react-hn).
 
